@@ -1,0 +1,11 @@
+.snack {
+    display: block;
+    margin: auto;
+    padding: 10px;
+
+}
+
+.snack-image {
+    width: 300px;
+    /* height: 300px; */
+}

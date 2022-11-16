@@ -1,0 +1,14 @@
+.nav-links a {
+    color: blue;
+    margin: auto;
+    padding: 5px;
+}
+
+nav {
+    background-color: aqua;
+}
+
+.nav-links a.active {
+    color: blue;
+    font-weight: bold;
+}
